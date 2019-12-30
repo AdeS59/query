@@ -1,0 +1,8 @@
+use AdventureWorks2016CTP3
+Go
+INSERT INTO courseInstructor(courseId,instructorId)values(1,2)
+Go
+
+
+#Msg 208 Level  16, State 1, Line 3
+Invalid object name 'courseInstructor'
